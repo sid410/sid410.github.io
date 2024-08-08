@@ -1,16 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
-
 "Information":
   url: https://www.mdpi.com/journal/information
   color: "#009f36"
 
 "TVCG":
-  color: "#00369f"
+  url: https://www.computer.org/csdl/journal/tg
+  color: "#009f36"
