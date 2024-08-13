@@ -4,8 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 6
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+cv_pdf: https://github.com/sid410/Butaslac-CV/releases/download/latest-release/butaslac_cv.pdf
+description: Get my Academic CV by clicking on the top pdf download button, or compile it from https://github.com/sid410/Butaslac-CV
 ---
