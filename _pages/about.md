@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Nara Institute of Science and Technology, Japan
+subtitle: AR/VR ・ HCI ・ IoT
 
 profile:
   align: right
@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+(nickname: Sid) -- is an Assistant Professor at the Interactive Media Design (IMD) Lab, Nara Institute of Science and Technology (NAIST), Japan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He received his B.S. degree in Electronics and Communications Engineering from Ateneo de Manila University (ADMU) in the Philippines in 2016 and his M.S. and Ph.D. degrees in Engineering from NAIST in 2020 and 2023, respectively. He then worked as a researcher at the University of Science and Technology of Southern Philippines (USTP) under the Internet of Things Lab, mainly working on a smart traffic solution using computer vision for edge devices named <a href='https://github.com/sid410/TrafficEZ'>TrafficEZ</a>.
