@@ -1,1 +1,4 @@
 * text=auto
+
+# Explicitly set because docker keeps resetting the line endings
+Gemfile.lock text eol=crlf
