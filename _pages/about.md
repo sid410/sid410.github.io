@@ -6,8 +6,8 @@ subtitle: AR/VR ・ HCI ・ IoT
 
 profile:
   align: right
-  image: my_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: my_pic3.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
     <p><a href='https://imdl.naist.jp/'>Interactive Media Design Lab</a></p>
