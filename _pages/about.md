@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AR/VR ・ HCI ・ IoT
+subtitle: AR ・ VR ・ HCI
 
 profile:
   align: right
